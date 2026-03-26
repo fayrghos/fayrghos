@@ -1,10 +1,12 @@
 <div align="center">
 
+```
 A passionate (so-called) developer from Brazil interested in backend tools, automation and Linux systems.
+```
 
 ---
-#### Langs, Libraries & Frameworks
 
+#### Langs, Libraries & Frameworks
 [![Python](https://img.shields.io/badge/Python-royalblue?style=for-the-badge&logoColor=white&logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C--Lang-royalblue?style=for-the-badge&logoColor=white&logo=c)](https://gcc.gnu.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-royalblue?style=for-the-badge&logoColor=white&logo=typescript)](https://www.typescriptlang.org/)
@@ -20,8 +22,8 @@ A passionate (so-called) developer from Brazil interested in backend tools, auto
 [![Markdown](https://img.shields.io/badge/Markdown-darkslateblue?style=for-the-badge&logoColor=white&logo=markdown)](https://daringfireball.net/projects/markdown/)
 
 ---
-#### Infrastructure, Automation & Operating Systems
 
+#### Infrastructure, Automation & Operating Systems
 [![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logoColor=white&logo=github)](https://pt.wikipedia.org/wiki/Recursividade)
 [![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)
