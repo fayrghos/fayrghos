@@ -1,12 +1,14 @@
 <div align="center">
 
-```
-A passionate (so-called) developer from Brazil interested in backend tools, automation and Linux systems.
-```
+A passionate (so-called) developer from Brazil interested in backend tools,
+automation and Linux systems.
 
----
+────────────────────────────────
 
-#### Langs, Libraries & Frameworks
+</br>
+
+Langs, Libraries & Frameworks
+
 [![Python](https://img.shields.io/badge/Python-royalblue?style=for-the-badge&logoColor=white&logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C--Lang-royalblue?style=for-the-badge&logoColor=white&logo=c)](https://gcc.gnu.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-royalblue?style=for-the-badge&logoColor=white&logo=typescript)](https://www.typescriptlang.org/)
@@ -21,9 +23,10 @@ A passionate (so-called) developer from Brazil interested in backend tools, auto
 [![Shadcn](https://img.shields.io/badge/Shadcn/ui-darkslateblue?style=for-the-badge&logoColor=white&logo=shadcnui)](https://ui.shadcn.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-darkslateblue?style=for-the-badge&logoColor=white&logo=markdown)](https://daringfireball.net/projects/markdown/)
 
----
+</br>
 
-#### Infrastructure, Automation & Operating Systems
+Infrastructure, Automation & Operating Systems
+
 [![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logoColor=white&logo=github)](https://pt.wikipedia.org/wiki/Recursividade)
 [![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)
@@ -37,5 +40,12 @@ A passionate (so-called) developer from Brazil interested in backend tools, auto
 [![Alma](https://img.shields.io/badge/Alma-royalblue?style=for-the-badge&logoColor=white&logo=almalinux)](https://almalinux.org/)
 [![Alpine](https://img.shields.io/badge/Alpine-royalblue?style=for-the-badge&logoColor=white&logo=alpinelinux)](https://www.alpinelinux.org/)
 [![Windows](https://img.shields.io/badge/Windows-royalblue?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjU2cHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiICBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+CiAgICA8dGl0bGU+V2luZG93czwvdGl0bGU+CiAgICA8Zz4KICAgICAgICA8cGF0aCBkPSJNMCwyLjg0MjE3MDk0ZS0xNCBMMTIxLjMyODk5LDIuODQyMTcwOTRlLTE0IEwxMjEuMzI4OTksMTIxLjMyODk5IEwwLDEyMS4zMjg5OSBMMCwyLjg0MjE3MDk0ZS0xNCBaIE0xMzQuNjcxMDEsMi44NDIxNzA5NGUtMTQgTDI1NiwyLjg0MjE3MDk0ZS0xNCBMMjU2LDEyMS4zMjg5OSBMMTM0LjY3MTAxLDEyMS4zMjg5OSBMMTM0LjY3MTAxLDIuODQyMTcwOTRlLTE0IFogTTAsMTM0LjY3MTAxIEwxMjEuMzI4OTksMTM0LjY3MTAxIEwxMjEuMzI4OTksMjU2IEwwLDI1NiBMMCwxMzQuNjcxMDEgWiBNMTM0LjY3MTAxLDEzNC42NzEwMSBMMjU2LDEzNC42NzEwMSBMMjU2LDI1NiBMMTM0LjY3MTAxLDI1NiBMMTM0LjY3MTAxLDEzNC42NzEwMSBaIiBmaWxsPSIjRkZGRkZGIj48L3BhdGg+CiAgICA8L2c+Cjwvc3ZnPgo=)](https://www.microsoft.com/en-gb/windows)
+
+</br>
+
+────────────────────────────────
+
+[![FullHD](https://cyber.dabamos.de/88x31/1080p.gif)](https://en.wikipedia.org/wiki/1080p)
+[![Firefox](https://cyber.dabamos.de/88x31/firefox4.gif)](https://www.firefox.com/en-GB/)
 
 </div>
