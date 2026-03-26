@@ -1,4 +1,4 @@
-A passionate (self-taught) developer from Brazil interested in backend tools, automation and Linux systems.
+A passionate (so-called) developer from Brazil interested in backend tools, automation and Linux systems.
 
 ---
 
@@ -6,7 +6,6 @@ A passionate (self-taught) developer from Brazil interested in backend tools, au
 [![Python](https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logoColor=white&logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C--Lang-3178C6?style=for-the-badge&logoColor=white&logo=c)](https://gcc.gnu.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white&logo=typescript)](https://www.typescriptlang.org/)
-[![SQL](https://img.shields.io/badge/SQL-SQLite-3178C6?style=for-the-badge&logoColor=white&logo=sqlite)](https://sqlite.org/)
 
 ### Frameworks & Libs
 [![FastAPI](https://img.shields.io/badge/FastAPI-3178C6?style=for-the-badge&logoColor=white&logo=fastapi)](https://fastapi.tiangolo.com/)
