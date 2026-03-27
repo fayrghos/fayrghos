@@ -16,7 +16,7 @@ Langs, Libraries & Frameworks
 [![FastAPI](https://img.shields.io/badge/FastAPI-indianred?style=for-the-badge&logoColor=white&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Pydantic](https://img.shields.io/badge/Pydantic-indianred?style=for-the-badge&logoColor=white&logo=pydantic)](https://docs.pydantic.dev/latest/)
 [![NextJS](https://img.shields.io/badge/Next.js-indianred?style=for-the-badge&logoColor=white&logo=nextdotjs)](https://nextjs.org/)
-[![SQLALchemy](https://img.shields.io/badge/SQLALchemy-indianred?style=for-the-badge&logoColor=white&logo=sqlalchemy)](https://www.sqlalchemy.org/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLALchemy-indianred?style=for-the-badge&logoColor=white&logo=sqlalchemy)](https://www.sqlalchemy.org/)
 [![DiscordPy](https://img.shields.io/badge/Discord.py-indianred?style=for-the-badge&logoColor=white&logo=discord)](https://discordpy.readthedocs.io/en/stable/)
 
 [![Tailwind](https://img.shields.io/badge/Tailwind-darkslateblue?style=for-the-badge&logoColor=white&logo=tailwindcss)](https://tailwindcss.com/)
@@ -47,5 +47,6 @@ Infrastructure, Automation & Operating Systems
 
 [![FullHD](https://cyber.dabamos.de/88x31/1080p.gif)](https://en.wikipedia.org/wiki/1080p)
 [![Firefox](https://cyber.dabamos.de/88x31/firefox4.gif)](https://www.firefox.com/en-GB/)
+[![Linux](https://88x31.nl/gifs/gnu-linux.gif)](https://kernel.org/)
 
 </div>
