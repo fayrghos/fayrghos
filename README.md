@@ -16,7 +16,6 @@ Langs, Libraries & Frameworks
 [![FastAPI](https://img.shields.io/badge/FastAPI-indianred?style=for-the-badge&logoColor=white&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Pydantic](https://img.shields.io/badge/Pydantic-indianred?style=for-the-badge&logoColor=white&logo=pydantic)](https://docs.pydantic.dev/latest/)
 [![NextJS](https://img.shields.io/badge/Next.js-indianred?style=for-the-badge&logoColor=white&logo=nextdotjs)](https://nextjs.org/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLALchemy-indianred?style=for-the-badge&logoColor=white&logo=sqlalchemy)](https://www.sqlalchemy.org/)
 [![DiscordPy](https://img.shields.io/badge/Discord.py-indianred?style=for-the-badge&logoColor=white&logo=discord)](https://discordpy.readthedocs.io/en/stable/)
 
 [![Tailwind](https://img.shields.io/badge/Tailwind-darkslateblue?style=for-the-badge&logoColor=white&logo=tailwindcss)](https://tailwindcss.com/)
@@ -27,10 +26,9 @@ Langs, Libraries & Frameworks
 
 Infrastructure, Automation & Operating Systems
 
-[![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logoColor=white&logo=github)](https://pt.wikipedia.org/wiki/Recursividade)
 [![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)
-[![Actions](https://img.shields.io/badge/Actions-gray?style=for-the-badge&logoColor=white&logo=githubactions)](https://github.com/features/actions)
+[![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logoColor=white&logo=github)](https://en.wikipedia.org/wiki/Recursion)
 [![UV](https://img.shields.io/badge/UV-gray?style=for-the-badge&logoColor=white&logo=uv)](https://docs.astral.sh/uv/)
 [![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
 [![Podman](https://img.shields.io/badge/Podman-gray?style=for-the-badge&logoColor=white&logo=podman)](https://podman.io/)
