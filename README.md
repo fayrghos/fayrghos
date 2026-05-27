@@ -29,9 +29,9 @@ Infrastructure, Automation & Operating Systems
 [![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logoColor=white&logo=github)](https://en.wikipedia.org/wiki/Recursion)
+[![GitLab](https://img.shields.io/badge/GitLab-gray?style=for-the-badge&logoColor=white&logo=gitlab)](https://gitlab.com/)
 [![UV](https://img.shields.io/badge/UV-gray?style=for-the-badge&logoColor=white&logo=uv)](https://docs.astral.sh/uv/)
 [![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
-[![Podman](https://img.shields.io/badge/Podman-gray?style=for-the-badge&logoColor=white&logo=podman)](https://podman.io/)
 
 [![Fedora](https://img.shields.io/badge/Fedora-royalblue?style=for-the-badge&logoColor=white&logo=fedora)](https://www.fedoraproject.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-royalblue?style=for-the-badge&logoColor=white&logo=ubuntu)](https://ubuntu.com/)
