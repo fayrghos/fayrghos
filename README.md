@@ -9,10 +9,10 @@ automation and Linux systems.
 
 Langs, Libraries & Frameworks
 
-![Python](./icons/python.svg)
-![C](./icons/c.svg)
-![Typescript](./icons/typescript.svg)
-![Go](./icons/go.svg)
+[![Python](./icons/python.svg)](https://www.python.org/)
+[![C](./icons/c.svg)](https://gcc.gnu.org/)
+[![Typescript](./icons/typescript.svg)](https://www.typescriptlang.org/)
+[![Go](./icons/go.svg)](https://go.dev/)
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-indianred?style=for-the-badge&logoColor=white&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Pydantic](https://img.shields.io/badge/Pydantic-indianred?style=for-the-badge&logoColor=white&logo=pydantic)](https://docs.pydantic.dev/latest/)
