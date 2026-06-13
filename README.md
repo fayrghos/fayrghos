@@ -9,7 +9,10 @@ automation and Linux systems.
 
 Langs, Libraries & Frameworks
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayrghos&hide_title=true&theme=github_dark_dimmed&size_weight=0.2&count_weight=0.8&disable_animations=true&hide=css,makefile,dockerfile&border_radius=30)
+![Python](./icons/python.svg)
+![C](./icons/c.svg)
+![Typescript](./icons/typescript.svg)
+![Go](./icons/go.svg)
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-indianred?style=for-the-badge&logoColor=white&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Pydantic](https://img.shields.io/badge/Pydantic-indianred?style=for-the-badge&logoColor=white&logo=pydantic)](https://docs.pydantic.dev/latest/)
